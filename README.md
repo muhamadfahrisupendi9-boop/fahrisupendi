@@ -1,8 +1,7 @@
-# fahrisupendi
 ## Tugas Algoritma
-*Nama:*Muhamad Fahri Supendi 
-*NIM:*[251011701065]  
-*Matkul:*Algoritma dan Pemrograman  
+*Nama:* Muhamad Fahri Supendi  
+*NIM:* [251011701065]  
+*Matkul:* Algoritma dan Pemrograman  
 
 ## Deskripsi Tugas
 1. Implementasi Logika FizzBuzz
