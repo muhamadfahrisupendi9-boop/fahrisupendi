@@ -1,6 +1,6 @@
 # fahrisupendi
 ## Tugas Algoritma
-*Nama:*MUHAMAD FAHRI SUPENDI 
+*Nama:*Muhamad Fahri Supendi 
 *NIM:*[251011701065]  
 *Matkul:*Algoritma dan Pemrograman  
 
