@@ -13,4 +13,4 @@ Di sini, Saya fokus pada operasi aritmatika untuk membedah angka besar menjadi s
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[Klik Sini](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
+[Klik Sini](https://colab.research.google.com/github/muhamadfahrisupendi9-boop/fahrisupendi/blob/main/Tugas%20Algoritma%20Fahri.ipynb)
