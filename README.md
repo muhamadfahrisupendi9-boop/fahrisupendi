@@ -12,7 +12,7 @@ Tugas ini berfokus pada penggunaan struktur perulangan (Looping) dan operasi mat
 * **Soal 1:** FizzBuzz (Logika Modulus & If-Else).
 * **Soal 2:** Konversi Hari (Operasi Aritmatika Tahun, Bulan, Hari).
 
-👉 [**JALANKAN KODE PERTEMUAN 4**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
+👉 [**JALANKAN KODE PERTEMUAN 4**](https://colab.research.google.com/github/muhamadfahrisupendi9-boop/fahrisupendi/blob/main/Tugas%20Algoritma%20Fahri.ipynb)
 
 ---
 
