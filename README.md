@@ -21,7 +21,7 @@ Tugas ini berfokus pada pengolahan dataset mahasiswa serta pemahaman operasi pad
 * **Tugas 1:** Analisis Nilai (Rata-rata, Nilai Maksimum & Minimum).
 * **Tugas 2:** Operasi Matriks (Penjumlahan, Pengurangan, & Perkalian Matriks).
 
-👉 [**JALANKAN KODE PERTEMUAN 5**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Pertemuan%205.ipynb)
+👉 [**JALANKAN KODE PERTEMUAN 5**](https://colab.research.google.com/github/muhamadfahrisupendi9-boop/fahrisupendi/blob/main/tugas_algo_5.ipynb)
 
 ---
 
