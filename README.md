@@ -29,5 +29,5 @@ Tugas ini berfokus pada pengolahan dataset mahasiswa serta pemahaman operasi pad
 Tugas ini berfokus pada struktur menghitung pangkat dan menghitung deret pecahan .
 * **Tugas 1:** Membuat program berbasis menu untuk menyelesaikan masalah matematika manggunakan perulangan (looping).
 
-👉 [**JALANKAN KODE PERTEMUAN 7**]()
+👉 [**JALANKAN KODE PERTEMUAN 7**](https://colab.research.google.com/github/muhamadfahrisupendi9-boop/fahrisupendi/blob/main/Tugas%20Algoritma%20.ipynb)
 
